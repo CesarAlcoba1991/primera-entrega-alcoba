@@ -1,0 +1,45 @@
+ul li {
+    list-style-type: none;
+    padding: 0px 20px;
+    display: inline-block;
+}
+
+li:hover{
+    background-color: rgba(250, 235, 215, 0.67);
+    border-radius: 50px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: pink;
+    padding: 20px;
+}
+
+.link{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.853);
+
+}
+
+.compra-carrito{
+    display: flex;
+    color: rgba(253, 58, 90, 0.723);
+    font-size: 25px;
+    padding-top: 25px;
+    justify-content: center;
+    font-size: 35px;
+}
+
+h1{
+    display: flex;
+    color: rgba(253, 58, 90, 0.723);
+    justify-content: center;
+    margin-top: 12rem;
+}
+
+h2{
+color: rgb(145, 79, 120);
+}
+
